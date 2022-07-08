@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 
 <!-- ## **I'm a Junior Full Stack Software Engineer** -->
 
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/95164262?v=4" alt="git" width="70" height="70" border-radius: "50" /> </a> </p>
+<!-- <p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/95164262?v=4" alt="git" width="70" height="70" border-radius: "50" /> </a> </p> -->
 
-<p>I am a MERN Stack web developer. I love to use my creativity and make something new. That's why I love to work with React.js and Tailwindcss. Over the last year, I gather knowledge in various parts of web development by myself. My ultimate goal is to become an awesome full-stack web developer who can make beautiful UIs and also can handle the back-end smoothly. Check out some of my works at https://github.com/ifty03</p>
+<p>I am a MERN Stack web developer. I love to use my creativity and make something new. That's why I love to work with React.js and Tailwindcss. Over the last year, I gather knowledge in various parts of web development by myself. My ultimate goal is to become an awesome full-stack web developer who can make beautiful UIs and also can handle the back-end smoothly. Check out some of my works at https://github.com/mukarrom21</p>
 <hr/>
 
 ## **Connect with Me &#8595;**
@@ -42,17 +42,17 @@ Here are some ideas to get you started:
 [<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>][link]&nbsp;
 [<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />][link]&nbsp;
 [<img src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" />][github]&nbsp;
-[<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />][link]&nbsp;
+<!-- [<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />][link]&nbsp; -->
 [<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />][link]&nbsp;
-[<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />][link]&nbsp;
+<!-- [<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />][link]&nbsp; -->
 [<img src="https://img.shields.io/badge/Firebase-0396de?style=for-the-badge&logo=firebase&logoColor=yellow" />][link]&nbsp;
-[<img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" />][link]&nbsp;
+<!-- [<img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" />][link]&nbsp; -->
 [<img src="https://img.shields.io/badge/Node-43853D?style=for-the-badge&logo=node.js&logoColor=white" />][link]&nbsp;
 [<img src="https://img.shields.io/badge/Express-43853D?style=for-the-badge&logo=express&logoColor=white" />][link]&nbsp;
 [<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />][link]&nbsp;
-[<img src="https://img.shields.io/badge/UI%20UX-4db5ff?style=for-the-badge&logo=&logoColor=4db5ff" />][link]&nbsp;
-[<img src="https://img.shields.io/badge/Logo%20Design-5b5a5a?style=for-the-badge&logo=&logoColor=4db5ff" />][link]&nbsp;
-[<img src="https://img.shields.io/badge/Brand%20Design-ff6b4e?style=for-the-badge&logo=&logoColor=4db5ff" />][link]&nbsp;
+<!-- [<img src="https://img.shields.io/badge/UI%20UX-4db5ff?style=for-the-badge&logo=&logoColor=4db5ff" />][link]&nbsp; -->
+<!-- [<img src="https://img.shields.io/badge/Logo%20Design-5b5a5a?style=for-the-badge&logo=&logoColor=4db5ff" />][link]&nbsp; -->
+<!-- [<img src="https://img.shields.io/badge/Brand%20Design-ff6b4e?style=for-the-badge&logo=&logoColor=4db5ff" />][link]&nbsp; -->
 <br/>
 
 ## **Tools &#8595;**
@@ -61,12 +61,12 @@ Here are some ideas to get you started:
 [<img src="https://img.shields.io/badge/VS CODE-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />][link]&nbsp;
 [<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />][link]&nbsp;
 [<img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />][link]&nbsp;
-[<img src="https://img.shields.io/badge/Webpack-1b74ba?style=for-the-badge&logo=webpack&logoColor=white" />][link]&nbsp;
-[<img src="https://img.shields.io/badge/Illustrator-470000?style=for-the-badge&logo=adobe%20illustrator&logoColor=#310000" />][link]&nbsp;
-[<img src="https://img.shields.io/badge/Photoshop-001d34?style=for-the-badge&logo=adobe%20photoshop&logoColor=#310000" />][link]&nbsp;
-[<img src="https://img.shields.io/badge/Indesign-7c001f?style=for-the-badge&logo=adobe%20indesign&logoColor=#310000" />][link]&nbsp;
+<!-- [<img src="https://img.shields.io/badge/Webpack-1b74ba?style=for-the-badge&logo=webpack&logoColor=white" />][link]&nbsp; -->
+<!-- [<img src="https://img.shields.io/badge/Illustrator-470000?style=for-the-badge&logo=adobe%20illustrator&logoColor=#310000" />][link]&nbsp; -->
+<!-- [<img src="https://img.shields.io/badge/Photoshop-001d34?style=for-the-badge&logo=adobe%20photoshop&logoColor=#310000" />][link]&nbsp; -->
+<!-- [<img src="https://img.shields.io/badge/Indesign-7c001f?style=for-the-badge&logo=adobe%20indesign&logoColor=#310000" />][link]&nbsp; -->
 [<img src="https://img.shields.io/badge/Figma-white?style=for-the-badge&logo=figma&logoColor=9d56f7" />][link]&nbsp;
-[<img src="https://img.shields.io/badge/Adobe%20XD-450135?style=for-the-badge&logo=adobe%20xd&logoColor=f75eee" />][link]&nbsp;
+<!-- [<img src="https://img.shields.io/badge/Adobe%20XD-450135?style=for-the-badge&logo=adobe%20xd&logoColor=f75eee" />][link]&nbsp; -->
 <br/>
 
 ## **Get in Touch &#8595;**
